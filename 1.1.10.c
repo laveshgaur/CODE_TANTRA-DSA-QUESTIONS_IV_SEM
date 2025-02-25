@@ -87,4 +87,4 @@ int main(){
 	root=deleteNode(root,target);
 	inorder(root);
 	return 0;
-}
+} 
